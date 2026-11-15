@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "ump-pump-controller",
   "hardware": "level-monitor-reva",
-  "version": "0.1.1",
-  "build": 2,
+  "version": "0.1.2",
+  "build": 3,
   "url": "https://raw.githubusercontent.com/karloacha/UMP_OTA/main/pump-controller/firmware.bin",
-  "size": 1081968,
-  "sha256": "1b58a950814155a21b1726b0f72b11e5ebb32ad32f7f769c5a8170f622cffcf4"
+  "size": 1149021,
+  "sha256": "c41b4b40503d364032e12d736314698a6e80172eee021b9739029eee35ad6428"
 }
